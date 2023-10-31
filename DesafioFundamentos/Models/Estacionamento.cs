@@ -52,7 +52,7 @@ namespace DesafioFundamentos.Models
                 }
                 else
                 {
-                    Console.WriteLine("Desculpe, está vaga não está oculpada");
+                    Console.WriteLine("Desculpe, está vaga não está ocupada");
                 }
             }
             else
